@@ -1,11 +1,13 @@
 
-/* Find a suitable data structures for the following scenarios and do the implementations:
+/*
+  Find a suitable data structures for the following scenarios and do the implementations:
   Q.1 Create a list L (123,234,345,456,567,678,789) and do the following operations using array concept.
         1. Insert a 010 at first position and show the order now
         2. Insert 020 at last position and show the order now
         3. Insert 030 at position 5 and show the order now
         4. Remove the item at 5 and 10
-        5. Replace the item at 3 with 765 */
+        5. Replace the item at 3 with 765 
+*/
 
 #include <iostream>
 using namespace std;
